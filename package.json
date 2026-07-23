@@ -1,9 +1,0 @@
-{
-  "name": "gemini-word-chain",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Gemini API를 이용한 AI 끝말잇기 웹앱",
-  "scripts": {
-    "start": "serve ."
-  }
-}
